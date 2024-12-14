@@ -1,0 +1,82 @@
+[2024-12-14 22:28:51] Chat Server berjalan di port 8081...
+
+[2024-12-14 22:30:40] Klien baru terhubung: socket fd 4, Nama: Klien1
+
+[2024-12-14 22:30:47] Klien baru terhubung: socket fd 5, Nama: Klien2
+
+[2024-12-14 22:30:51] Klien baru terhubung: socket fd 6, Nama: Klien3
+
+[2024-12-14 22:30:56] Klien baru terhubung: socket fd 7, Nama: Klien4
+
+[2024-12-14 22:31:00] Klien baru terhubung: socket fd 8, Nama: Klien5
+
+[2024-12-14 22:31:03] Klien baru terhubung: socket fd 9, Nama: Klien6
+
+[2024-12-14 22:31:06] Klien baru terhubung: socket fd 10, Nama: Klien7
+
+[2024-12-14 22:31:39] Pesan diterima dari [Klien1]: Halo, selamat malam!
+
+[2024-12-14 23:02:32] Chat Server berjalan di port 8081...
+
+[2024-12-14 23:02:34] Klien baru terhubung: socket fd 4, Nama: Klien1
+
+[2024-12-14 23:02:34] Klien baru terhubung: socket fd 5, Nama: Klien2
+
+[2024-12-14 23:02:34] Pesan diterima dari [Klien1]: Test message from client 5
+
+[2024-12-14 23:02:34] Klien baru terhubung: socket fd 6, Nama: Klien3
+
+[2024-12-14 23:02:34] Pesan diterima dari [Klien2]: Test message from client 1
+
+[2024-12-14 23:02:34] Klien baru terhubung: socket fd 7, Nama: Klien4
+
+[2024-12-14 23:02:34] Pesan diterima dari [Klien3]: Test message from client 3
+
+[2024-12-14 23:02:34] Klien baru terhubung: socket fd 8, Nama: Klien5
+
+[2024-12-14 23:02:34] Pesan diterima dari [Klien4]: Test message from client 4
+
+[2024-12-14 23:02:34] Pesan diterima dari [Klien5]: Test message from client 2
+
+[2024-12-14 23:08:08] Chat Server berjalan di port 8081...
+
+[2024-12-14 23:08:10] Klien baru terhubung: socket fd 4, Nama: Klien1
+
+[2024-12-14 23:08:10] Pesan diterima dari [Klien1]: vhZZaY1Kt1llERzPwHbaG0YruFZrJxdsCdtBRdxzubF6DwJjdF1SwfTHOmGPyIR9uljCc9rGmenNsO8yFRaFGVgO5bDQvthwa1pBO5JTlhZZkOPGswy9pL3xeTvWNATyORoZrSfIM321EmKJjZhudmqY4uris8qHskoEXkjOJiMgmppEWjf8mTRyaJXsoYrCwpRu6fyUP8ZI65iSSwgtuFiNuhYDwPBDPUzePbwxbKWLtGdGTbcoG8UKN3Jez444lV9Ol97kV5lA4HQoCB74X7Wzi1EkOO2FbzHhUPZy7oJykIbcxRqw07jEyiOJPk6Jkg5kCrSMJeNeEkpIgXrb0dkuP8o0CvPhDmodeGaZi3BeGPVeMkD6gkDIahnHnUH1s8WfyUZwAYIgiCBm3HMbqoUVHaYMK4mpPjSJzVqQYQwX5qXEAwsEbVjbbNPOgnYaNoXnSwIz1bkkWzXTu5sZQhor
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 5, Nama: Klien2
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 6, Nama: Klien3
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien3]: Message 2 from client
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 7, Nama: Klien4
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien4]: Message 3 from client
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien2]: Message 1 from client
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 8, Nama: Klien5
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien5]: Message 5 from client
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 9, Nama: Klien6
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 10, Nama: Klien7
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien6]: Message 7 from client
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 11, Nama: Klien8
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien7]: Message 6 from client
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien8]: Message 4 from client
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 12, Nama: Klien9
+
+[2024-12-14 23:09:39] Klien baru terhubung: socket fd 13, Nama: Klien10
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien9]: Message 8 from client
+
+[2024-12-14 23:09:39] Pesan diterima dari [Klien10]: Message 9 from client
+
